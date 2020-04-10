@@ -1,0 +1,14 @@
+/home/wangzhe/keras-GaussianYOLOv3-master/voc2007/JPEGImages/BloodImage_00166.jpg
+/home/wangzhe/keras-GaussianYOLOv3-master/voc2007/JPEGImages/BloodImage_00231.jpg
+/home/wangzhe/keras-GaussianYOLOv3-master/voc2007/JPEGImages/BloodImage_00402.jpg
+/home/wangzhe/keras-GaussianYOLOv3-master/voc2007/JPEGImages/BloodImage_00281.jpg
+/home/wangzhe/keras-GaussianYOLOv3-master/voc2007/JPEGImages/BloodImage_00333.jpg
+/home/wangzhe/keras-GaussianYOLOv3-master/voc2007/JPEGImages/BloodImage_00063.jpg
+/home/wangzhe/keras-GaussianYOLOv3-master/voc2007/JPEGImages/BloodImage_00204.jpg
+/home/wangzhe/keras-GaussianYOLOv3-master/voc2007/JPEGImages/BloodImage_00018.jpg
+/home/wangzhe/keras-GaussianYOLOv3-master/voc2007/JPEGImages/BloodImage_00378.jpg
+/home/wangzhe/keras-GaussianYOLOv3-master/voc2007/JPEGImages/BloodImage_00278.jpg
+/home/wangzhe/keras-GaussianYOLOv3-master/voc2007/JPEGImages/BloodImage_00004.jpg
+/home/wangzhe/keras-GaussianYOLOv3-master/voc2007/JPEGImages/BloodImage_00294.jpg
+/home/wangzhe/keras-GaussianYOLOv3-master/voc2007/JPEGImages/BloodImage_00215.jpg
+/home/wangzhe/keras-GaussianYOLOv3-master/voc2007/JPEGImages/BloodImage_00075.jpg
